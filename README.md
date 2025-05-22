@@ -1,28 +1,72 @@
-A backend project built using Onion Architecture in ASP.NET Core 8 and C#.
-The application exposes a REST API for product management with full CRUD support and MS SQL Server integration via Entity Framework Core.
+# OnionProductApp – REST API w ASP.NET Core 8 (.NET 8)
 
-Technologies and architectural patterns implemented:
+Aplikacja REST API do zarządzania produktami, zbudowana z użyciem Onion Architecture w ASP.NET Core 8 oraz Entity Framework Core. Projekt został stworzony jako część samodzielnej nauki i budowy portfolio .NET Developera.
 
-• Onion Architecture – clear separation of concerns across layers (Domain, Application, Infrastructure, API)
-• Repository Pattern + Service Layer
-• DTO (Data Transfer Objects) for communication between layers
-• FluentValidation – clean and centralized input validation
-• Swagger – automatic API documentation and testing interface
-• SQL Server + EF Core – persistent relational database
-• Dependency Injection – aligned with SOLID principles
+---
 
-The project is designed to be scalable and extendable (e.g. with JWT authentication, CQRS, or a frontend built with Blazor or React).
-It provides a solid foundation for real-world business applications following .NET best practices.
+## 🛠️ Technologie
 
-Projekt backendowy oparty o architekturę Onion, stworzony w ASP.NET Core 8 i C#. Aplikacja udostępnia REST API do zarządzania produktami, z pełną obsługą CRUD i integracją z bazą danych MS SQL Server za pomocą Entity Framework Core.
+- ASP.NET Core 8
+- C#
+- Entity Framework Core 9
+- SQL Server
+- FluentValidation
+- Swagger / OpenAPI
+- Onion Architecture
+- REST API
+- SOLID + Dependency Injection
 
-Zaimplementowane technologie i wzorce:
-• Onion Architecture – wyraźne oddzielenie warstw (Domain, Application, Infrastructure, API)
-• Repository Pattern + Service Layer
-• DTO (Data Transfer Objects) do komunikacji między warstwami
-• FluentValidation – walidacja danych wejściowych
-• Swagger – dokumentacja i testowanie endpointów
-• SQL Server + EF Core – trwała baza danych
-• Dependency Injection – zgodnie z zasadami SOLID
+---
 
-Projekt przygotowany do dalszej rozbudowy (np. o JWT, CQRS, front w Blazor lub React). Całość stanowi solidną bazę aplikacji biznesowej z architekturą skalowalną i zgodną z najlepszymi praktykami .NET.
+## ✨ Funkcjonalności
+
+- 🔁 CRUD na produktach (Create, Read, Update, Delete)
+- ✅ Walidacja danych wejściowych z FluentValidation
+- 📂 Podział na warstwy: Domain, Application, Infrastructure, API
+- 📡 Dokumentacja i testowanie API przez Swagger UI
+- 💾 Trwała baza danych MS SQL Server (przez EF Core)
+
+---
+
+## 📁 Struktura projektu
+OnionProductAPI
+├── OnionProductAPI.Domain # Encje domenowe, interfejsy repozytoriów
+├── OnionProductAPI.Application # DTO, interfejsy i serwisy biznesowe
+├── OnionProductAPI.Infrastructure # EF Core DbContext, implementacje repo
+└── OnionProductAPI.API # Kontrolery, Program.cs, konfiguracja
+
+## 🚀 Jak uruchomić
+
+1. Skonfiguruj connection string do SQL Servera w `appsettings.json`
+2. Wykonaj migrację bazy:
+dotnet ef database update --startup-project ../OnionProductAPI.API
+3. Uruchom projekt API
+4. Wejdź na `https://localhost:{port}/swagger` i testuj endpointy!
+
+---
+
+## 🌍 English Summary
+
+**OnionProductApp** is a RESTful API for managing products, built with Onion Architecture in ASP.NET Core 8 and Entity Framework Core.
+
+### ✅ Features:
+- Full CRUD operations
+- Clean separation of layers (Domain, Application, Infrastructure, API)
+- Repository Pattern & Service Layer
+- FluentValidation integration
+- Swagger for API documentation and testing
+- SQL Server + EF Core database
+
+---
+
+📚 _This project was completed as part of my self-directed learning and portfolio development as a .NET Developer._
+
+---
+
+## 🔗 Linki
+
+- ✅ GitHub repo: https://github.com/MarekAbel2702/OnionProductApp
+- 👤 LinkedIn: [(https://www.linkedin.com/in/marek-abel-655723348/)]
+
+---
+
