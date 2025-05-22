@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Janek\\Desktop\\Folder Marka 2\\Strony i programowanie\\C#\\2\\OnionProductAPI\\OnionProductAPI.Domain\\OnionProductAPI.Domain.csproj": {}
+    "C:\\Users\\Janek\\Desktop\\Folder Marka 2\\Strony i programowanie\\csharp\\2\\OnionProductAPI\\OnionProductAPI.Domain\\OnionProductAPI.Domain.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Janek\\Desktop\\Folder Marka 2\\Strony i programowanie\\C#\\2\\OnionProductAPI\\OnionProductAPI.Domain\\OnionProductAPI.Domain.csproj": {
+    "C:\\Users\\Janek\\Desktop\\Folder Marka 2\\Strony i programowanie\\csharp\\2\\OnionProductAPI\\OnionProductAPI.Domain\\OnionProductAPI.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Janek\\Desktop\\Folder Marka 2\\Strony i programowanie\\C#\\2\\OnionProductAPI\\OnionProductAPI.Domain\\OnionProductAPI.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\Janek\\Desktop\\Folder Marka 2\\Strony i programowanie\\csharp\\2\\OnionProductAPI\\OnionProductAPI.Domain\\OnionProductAPI.Domain.csproj",
         "projectName": "OnionProductAPI.Domain",
-        "projectPath": "C:\\Users\\Janek\\Desktop\\Folder Marka 2\\Strony i programowanie\\C#\\2\\OnionProductAPI\\OnionProductAPI.Domain\\OnionProductAPI.Domain.csproj",
+        "projectPath": "C:\\Users\\Janek\\Desktop\\Folder Marka 2\\Strony i programowanie\\csharp\\2\\OnionProductAPI\\OnionProductAPI.Domain\\OnionProductAPI.Domain.csproj",
         "packagesPath": "C:\\Users\\Janek\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Janek\\Desktop\\Folder Marka 2\\Strony i programowanie\\C#\\2\\OnionProductAPI\\OnionProductAPI.Domain\\obj\\",
+        "outputPath": "C:\\Users\\Janek\\Desktop\\Folder Marka 2\\Strony i programowanie\\csharp\\2\\OnionProductAPI\\OnionProductAPI.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Janek\\AppData\\Roaming\\NuGet\\NuGet.Config",

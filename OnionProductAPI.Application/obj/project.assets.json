@@ -32,11 +32,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Janek\\Desktop\\Folder Marka 2\\Strony i programowanie\\C#\\2\\OnionProductAPI\\OnionProductAPI.Application\\OnionProductAPI.Application.csproj",
+      "projectUniqueName": "C:\\Users\\Janek\\Desktop\\Folder Marka 2\\Strony i programowanie\\csharp\\2\\OnionProductAPI\\OnionProductAPI.Application\\OnionProductAPI.Application.csproj",
       "projectName": "OnionProductAPI.Application",
-      "projectPath": "C:\\Users\\Janek\\Desktop\\Folder Marka 2\\Strony i programowanie\\C#\\2\\OnionProductAPI\\OnionProductAPI.Application\\OnionProductAPI.Application.csproj",
+      "projectPath": "C:\\Users\\Janek\\Desktop\\Folder Marka 2\\Strony i programowanie\\csharp\\2\\OnionProductAPI\\OnionProductAPI.Application\\OnionProductAPI.Application.csproj",
       "packagesPath": "C:\\Users\\Janek\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Janek\\Desktop\\Folder Marka 2\\Strony i programowanie\\C#\\2\\OnionProductAPI\\OnionProductAPI.Application\\obj\\",
+      "outputPath": "C:\\Users\\Janek\\Desktop\\Folder Marka 2\\Strony i programowanie\\csharp\\2\\OnionProductAPI\\OnionProductAPI.Application\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Janek\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -53,8 +53,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\Janek\\Desktop\\Folder Marka 2\\Strony i programowanie\\C#\\2\\OnionProductAPI\\OnionProductAPI.Domain\\OnionProductAPI.Domain.csproj": {
-              "projectPath": "C:\\Users\\Janek\\Desktop\\Folder Marka 2\\Strony i programowanie\\C#\\2\\OnionProductAPI\\OnionProductAPI.Domain\\OnionProductAPI.Domain.csproj"
+            "C:\\Users\\Janek\\Desktop\\Folder Marka 2\\Strony i programowanie\\csharp\\2\\OnionProductAPI\\OnionProductAPI.Domain\\OnionProductAPI.Domain.csproj": {
+              "projectPath": "C:\\Users\\Janek\\Desktop\\Folder Marka 2\\Strony i programowanie\\csharp\\2\\OnionProductAPI\\OnionProductAPI.Domain\\OnionProductAPI.Domain.csproj"
             }
           }
         }
