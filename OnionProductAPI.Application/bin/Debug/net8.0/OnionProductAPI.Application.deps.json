@@ -8,10 +8,19 @@
     ".NETCoreApp,Version=v8.0": {
       "OnionProductAPI.Application/1.0.0": {
         "dependencies": {
+          "FluentValidation": "11.7.0",
           "OnionProductAPI.Domain": "1.0.0"
         },
         "runtime": {
           "OnionProductAPI.Application.dll": {}
+        }
+      },
+      "FluentValidation/11.7.0": {
+        "runtime": {
+          "lib/net7.0/FluentValidation.dll": {
+            "assemblyVersion": "11.0.0.0",
+            "fileVersion": "11.7.0.0"
+          }
         }
       },
       "OnionProductAPI.Domain/1.0.0": {
@@ -26,6 +35,13 @@
       "type": "project",
       "serviceable": false,
       "sha512": ""
+    },
+    "FluentValidation/11.7.0": {
+      "type": "package",
+      "serviceable": true,
+      "sha512": "sha512-vySY5WLvMx8eUq01IDM7iXriWoEkldvB/zEIGlkmoImJrC1m3YRdxcg9srFiy95sUzOHcgPcn2/5678zjhZCiA==",
+      "path": "fluentvalidation/11.7.0",
+      "hashPath": "fluentvalidation.11.7.0.nupkg.sha512"
     },
     "OnionProductAPI.Domain/1.0.0": {
       "type": "project",

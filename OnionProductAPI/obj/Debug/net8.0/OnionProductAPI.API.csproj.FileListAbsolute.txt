@@ -353,3 +353,6 @@ C:\Users\Janek\Desktop\Folder Marka 2\Strony i programowanie\csharp\2\OnionProdu
 C:\Users\Janek\Desktop\Folder Marka 2\Strony i programowanie\csharp\2\OnionProductAPI\OnionProductAPI\obj\Debug\net8.0\OnionProductAPI.API.pdb
 C:\Users\Janek\Desktop\Folder Marka 2\Strony i programowanie\csharp\2\OnionProductAPI\OnionProductAPI\obj\Debug\net8.0\OnionProductAPI.API.genruntimeconfig.cache
 C:\Users\Janek\Desktop\Folder Marka 2\Strony i programowanie\csharp\2\OnionProductAPI\OnionProductAPI\obj\Debug\net8.0\ref\OnionProductAPI.API.dll
+C:\Users\Janek\Desktop\Folder Marka 2\Strony i programowanie\csharp\2\OnionProductAPI\OnionProductAPI\bin\Debug\net8.0\FluentValidation.dll
+C:\Users\Janek\Desktop\Folder Marka 2\Strony i programowanie\csharp\2\OnionProductAPI\OnionProductAPI\bin\Debug\net8.0\FluentValidation.DependencyInjectionExtensions.dll
+C:\Users\Janek\Desktop\Folder Marka 2\Strony i programowanie\csharp\2\OnionProductAPI\OnionProductAPI\bin\Debug\net8.0\FluentValidation.AspNetCore.dll

@@ -1,11 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "XLQLhQG8rogXUCiV0GlWyqqyN5X9iq4SPKZ+K8AdUMfdyhG5+m1NcHG1fPMUKjGhBso3c3grJNPNUIIs9VgXmA==",
+  "dgSpecHash": "XUAINT7zb8r/R1D4fNH2SLIoS0ri7cIG119n+J7kqWy5ILINgSDjsQlvHmzCSE6E81m7eATcysOJM3Wgm8OEhA==",
   "success": true,
   "projectFilePath": "C:\\Users\\Janek\\Desktop\\Folder Marka 2\\Strony i programowanie\\csharp\\2\\OnionProductAPI\\OnionProductAPI\\OnionProductAPI.API.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Janek\\.nuget\\packages\\azure.core\\1.38.0\\azure.core.1.38.0.nupkg.sha512",
     "C:\\Users\\Janek\\.nuget\\packages\\azure.identity\\1.11.4\\azure.identity.1.11.4.nupkg.sha512",
+    "C:\\Users\\Janek\\.nuget\\packages\\fluentvalidation\\11.7.0\\fluentvalidation.11.7.0.nupkg.sha512",
+    "C:\\Users\\Janek\\.nuget\\packages\\fluentvalidation.aspnetcore\\11.3.0\\fluentvalidation.aspnetcore.11.3.0.nupkg.sha512",
+    "C:\\Users\\Janek\\.nuget\\packages\\fluentvalidation.dependencyinjectionextensions\\11.5.1\\fluentvalidation.dependencyinjectionextensions.11.5.1.nupkg.sha512",
     "C:\\Users\\Janek\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\Janek\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\7.0.0\\microsoft.bcl.asyncinterfaces.7.0.0.nupkg.sha512",
     "C:\\Users\\Janek\\.nuget\\packages\\microsoft.build.framework\\17.8.3\\microsoft.build.framework.17.8.3.nupkg.sha512",
